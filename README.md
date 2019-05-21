@@ -1,2 +1,2 @@
-# Astar-path-planning-
+# Astar-path-planning
 C++
